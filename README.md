@@ -1,2 +1,2 @@
 # Recursion-Python
-Recursion Python Solution inPython
+Recursion Python Solution in Python
